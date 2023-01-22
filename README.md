@@ -1,3 +1,9 @@
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/waelrash1/timeSeriesPy.git/master)
+ 
+ .. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/waelrash1/timeSeriesPy.git/master
+
+
 # Time Series Forecasting in Python
 ![Cover of the book Time Series Forecasting in Python](https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Peixeiro.png)
 
@@ -56,7 +62,3 @@ Get your [copy](https://www.manning.com/books/time-series-forecasting-in-python-
 
  ### Chapters in development
  
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/waelrash1/timeSeriesPy.git/master)
- 
- .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/waelrash1/timeSeriesPy.git/master
